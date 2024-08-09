@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: habsida.spring.boot_security.demo.SpringBootSecurityDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.975 s - in habsida.spring.boot_security.demo.SpringBootSecurityDemoApplicationTests
